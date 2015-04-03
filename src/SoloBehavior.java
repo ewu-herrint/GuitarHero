@@ -1,9 +1,5 @@
 
-public class SoloBehavior {
-
-	public void playSolo() {
-		// TODO Auto-generated method stub
-		
-	}
-
+public interface SoloBehavior 
+{
+	public void playSolo();
 }

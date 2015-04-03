@@ -1,4 +1,5 @@
 
-public class GameCharacterHendrix extends GameCharacter {
+public class GameCharacterHendrix extends GameCharacter 
+{
 
 }

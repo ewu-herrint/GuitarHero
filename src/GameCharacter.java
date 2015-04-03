@@ -1,7 +1,6 @@
 
 public abstract class GameCharacter 
 {
-	private String name;
 	private GuitarBehavior guitar;
 	private SoloBehavior solo;
 	
