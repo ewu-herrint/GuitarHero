@@ -4,10 +4,13 @@ public abstract class GameCharacter
 	private GuitarBehavior guitar;
 	private SoloBehavior solo;
 	
-	public GameCharacter()
+	public GameCharacter(GuitarBehavior guitar, SoloBehavior solo)
 	{
-		
+		this.guitar = guitar;
+		this.solo = solo;
 	}
+	
+	public abstract void whoAmI();
 	
 	public void setGuitarBehavior(GuitarBehavior guitar)
 	{
