@@ -1,4 +1,5 @@
-
+// Tyler Herrin
+// Strategy Pattern
 public class FireSolo implements SoloBehavior 
 {
 	@Override

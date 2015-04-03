@@ -1,4 +1,5 @@
-
+// Tyler Herrin
+// Strategy Pattern
 public abstract class GameCharacter 
 {
 	private GuitarBehavior guitar;

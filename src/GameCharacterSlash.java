@@ -1,4 +1,5 @@
-
+// Tyler Herrin
+// Strategy Pattern
 public class GameCharacterSlash extends GameCharacter 
 {
 

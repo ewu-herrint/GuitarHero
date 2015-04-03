@@ -1,3 +1,5 @@
+// Tyler Herrin
+// Strategy Pattern
 
 public class GuitarHero {
 
